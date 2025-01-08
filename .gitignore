@@ -1,0 +1,30 @@
+# Ignore CMake build directories
+/build/
+# Ignore CMake cache files
+CMakeCache.txt
+CMakeFiles/
+# Ignore CMake-generated files
+cmake_install.cmake
+Makefile
+# Ignore IDE/project files
+*.idea/
+*.vscode/
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+# Ignore compiled object files
+*.o
+*.a
+*.so
+*.out
+*.exe
+# Ignore binary executables
+*.exe
+*.out
+# Ignore debug/release directories
+cmake-build-debug
+/debug/
+*/debug/
+*/release/
+# Ignore the CMake install directory
+/install/
