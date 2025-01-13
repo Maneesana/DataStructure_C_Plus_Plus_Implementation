@@ -36,4 +36,6 @@ add_executable(DataStructure_Using_C_plus_plus main.cpp
         Algorithms/String_Manipulation_Algorithms/string_manipulation_algorithms.h
         Shared/DataStructureExampleRunnable.h
         Big_O_Notation/big_o_notation_example.h
+        Binary_Tree/binary_tree_example.h
+        AVL_Tree/avl_tree_example.h
 )
