@@ -37,4 +37,5 @@ add_executable(DataStructure_Using_C_plus_plus main.cpp
         Shared/DataStructureExampleRunnable.h
         Big_O_Notation/big_o_notation_example.h
         Binary_Tree/binary_tree_example.h
+        AVL_Tree/avl_tree_example.h
 )
